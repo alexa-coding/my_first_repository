@@ -1,2 +1,1 @@
-This project is all about **Git commands**.  
-Commands are cool.
+This project is all about **Git commands** and branches.
